@@ -1,0 +1,44 @@
+#page1 {
+    display: block;
+}
+#page2{
+    display: none;
+}
+#page3 {
+    display: none;
+}
+#page4 {
+    display: none;
+}
+#customsvg {
+    margin-right: 50px;
+}
+
+/* Bootstrap stlyes change */
+#myCarousel {
+    height: 80vh;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+.container {
+    margin-left: 60px !important;
+}
+.carousel-item img {
+    height: 80vh;
+    width: 100vw;
+}
+.blog-post{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.carousel-caption h1, p {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.76);
+    width: fit-content;
+}
+.navbar-collapse {
+    transition: 2s !important;
+}
+.container-fluid {
+    margin: 20 !important;
+}
